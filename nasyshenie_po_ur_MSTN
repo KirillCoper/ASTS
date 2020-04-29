@@ -8,8 +8,10 @@
 *
 * Support mail      : kirill.grigoryev.1998@gmail.ru
 *
+* Target MCU        : MSTN: M100 @ (Xtal = 80 MHz | CPUclk = 80 MHz)
 * Description       : Realisation of saturation at two levels using MSTN-M100
 *                   :
+* Hardware          : .c
 *******************************************************************************/
 #include "main.h" 
 #include <stdlib.h> 
