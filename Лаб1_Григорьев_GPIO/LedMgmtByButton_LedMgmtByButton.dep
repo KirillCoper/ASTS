@@ -1,0 +1,100 @@
+Dependencies for Project 'LedMgmtByButton', Target 'LedMgmtByButton': (DO NOT MODIFY !)
+F (.\src\button.c)(0x5859B721)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\button.o --omf_browse .\obj\button.crf --depend .\obj\button.d)
+I (src\button.h)(0x584B1727)
+I (src\type_custom.h)(0x584B296E)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)
+F (.\src\clk.c)(0x5859B677)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\clk.o --omf_browse .\obj\clk.crf --depend .\obj\clk.d)
+I (src\clk.h)(0x584B170D)
+I (src\type_custom.h)(0x584B296E)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)
+F (.\src\led.c)(0x5859B78B)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\led.o --omf_browse .\obj\led.crf --depend .\obj\led.d)
+I (src\led.h)(0x584B16FC)
+I (src\type_custom.h)(0x584B296E)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)
+F (.\src\main.c)(0x5859B782)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (src\clk.h)(0x584B170D)
+I (src\type_custom.h)(0x584B296E)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)
+I (src\led.h)(0x584B16FC)
+I (src\button.h)(0x584B1727)
+F (.\src\button.h)(0x584B1727)()
+F (.\src\clk.h)(0x584B170D)()
+F (.\src\led.h)(0x584B16FC)()
+F (.\src\type_custom.h)(0x584B296E)()
+F (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)()
+F (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm\startup_MDR32F9Qx.s)(0x5849BB72)(--cpu Cortex-M3 --li -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x--list .\lst\startup_mdr32f9qx.lst --xref -o .\obj\startup_mdr32f9qx.o --depend .\obj\startup_mdr32f9qx.d)
+F (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)()
+F (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.c)(0x5822AF32)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\system_mdr32f9qx.o --omf_browse .\obj\system_mdr32f9qx.crf --depend .\obj\system_mdr32f9qx.d)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+F (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)()
+F (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)()
+F (..\..\lib\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_port.c)(0x54A4D407)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\mdr32f9qx_port.o --omf_browse .\obj\mdr32f9qx_port.crf --depend .\obj\mdr32f9qx_port.d)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x54A4D409)
+F (..\..\lib\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_rst_clk.c)(0x54A4D408)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\arm -I..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc -I..\..\lib\Config-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\obj\mdr32f9qx_rst_clk.o --omf_browse .\obj\mdr32f9qx_rst_clk.crf --depend .\obj\mdr32f9qx_rst_clk.d)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_config.h)(0x584B18A9)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_board.h)(0x584B1822)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x54A4D40B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x564B987D)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x584B16F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3002)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3002)
+I (..\..\lib\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\system_MDR32F9Qx.h)(0x5822AF32)
+I (..\..\lib\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x54A4D40B)
