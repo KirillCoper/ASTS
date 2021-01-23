@@ -1,3 +1,18 @@
+/***********************************************************************************************************************************
+* Copyright (C) 2021 TUSUR, FB
+* File              : main.c
+* Compiler          : gcc
+* IDE               : Keil IDE
+* Version           : 5.33
+* Created File      : 20.01.2021
+* Last modified     : 20.01.2021
+*
+* Support mail      : kirill.grigoryev.1998@gmail.ru
+*
+* Target MCU        : any
+* 
+* Description       : Calling an external interrupt when two legs of the board are closed. Interruption causes the LED to light.
+***********************************************************************************************************************************/
 #include "MDR32Fx.h" // Device header
 #include "MDR32F9Qx_port.h" // Keil::Drivers:PORT
 #include "system_MDR32F9Qx.h" // Keil::Device:Startup
