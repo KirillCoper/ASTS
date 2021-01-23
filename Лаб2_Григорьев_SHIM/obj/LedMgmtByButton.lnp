@@ -1,0 +1,14 @@
+--cpu Cortex-M3
+".\obj\button.o"
+".\obj\clk.o"
+".\obj\led.o"
+".\obj\main.o"
+".\obj\startup_mdr32f9qx.o"
+".\obj\system_mdr32f9qx.o"
+".\obj\mdr32f9qx_port.o"
+".\obj\mdr32f9qx_rst_clk.o"
+".\obj\mdr32f9qx_timer.o"
+--strict --scatter ".\obj\LedMgmtByButton.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\lst\LedMgmtByButton.map" -o .\obj\LedMgmtByButton.axf
